@@ -1,3 +1,6 @@
+<img width="1277" height="1023" alt="image" src="https://github.com/user-attachments/assets/a1953cbc-91b0-4e31-b0ab-7989e18c76b0" />
+
+
 # Hill Climb Racing Trainer
 
 A simple Python-based memory editor for **Hill Climb Racing** that allows you to set **Money** and **Diamonds** and enables an **unlimited gas feature**. Built using `ctypes` for direct memory access and `psutil` for process management on Windows.
